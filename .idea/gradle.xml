@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="PLATFORM" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/p0761tabs" />
+            <option value="$PROJECT_DIR$/p0791xmlpullparser" />
+            <option value="$PROJECT_DIR$/p0801handler" />
+            <option value="$PROJECT_DIR$/p0801handlerdemoprogress" />
+            <option value="$PROJECT_DIR$/p0801handlerex1" />
+            <option value="$PROJECT_DIR$/p0801handlersimple" />
+            <option value="$PROJECT_DIR$/p0851runnableuithread" />
+            <option value="$PROJECT_DIR$/p0921servicesimple" />
+            <option value="$PROJECT_DIR$/p0931servicemetanit" />
+            <option value="$PROJECT_DIR$/p0931servicestop" />
+            <option value="$PROJECT_DIR$/p0941servicekillclient" />
+            <option value="$PROJECT_DIR$/p0951servicebackpendingintent" />
+            <option value="$PROJECT_DIR$/p0961servicebackbroadcast" />
+            <option value="$PROJECT_DIR$/p0971servicebindclient" />
+            <option value="$PROJECT_DIR$/p0981servicebindinglocal" />
+            <option value="$PROJECT_DIR$/p1012contprovclient" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

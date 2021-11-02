@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ServiceBackPendingIntent</string>
+    <string name="start">Start</string>
+    <string name="Task1">Task1</string>
+    <string name="Task2">Task2</string>
+    <string name="Task3">Task3</string>
+</resources>
